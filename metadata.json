@@ -1,0 +1,5 @@
+{
+  "name": "Java CI Starter Kit",
+  "description": "A developer tool for generating a minimal, Jenkins-ready Maven Java project with standard directory structures and JUnit testing.",
+  "requestFramePermissions": []
+}
